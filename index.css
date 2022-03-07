@@ -1,0 +1,20 @@
+
+body{
+    background:url("./img/images.jpg") no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    box-sizing: border-box;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile a {
+    display: inline-block;
+    padding: 2rem;
+    margin: 2rem;
+}
